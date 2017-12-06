@@ -7,7 +7,7 @@
         <!-- Services package configuration. -->
         <init-param>
             <param-name>jersey.config.server.provider.packages</param-name>
-            <param-value>controller</param-value>
+            <param-value>controllers</param-value>
         </init-param>
     </servlet>
     <servlet-mapping>
